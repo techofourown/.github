@@ -27,14 +27,13 @@ We build **non-extractive consumer technology**: local-first, user-owned, repair
   https://github.com/techofourown/sw-ourbox-os
 
 ### Hardware
-- **hw-ourbox-mini** — OurBox Mini hardware decisions + specs
-  https://github.com/techofourown/hw-ourbox-mini
-- **hw-ourbox-desk-32** — OurBox Desk 32 hardware decisions + specs
-  https://github.com/techofourown/hw-ourbox-desk-32
+- **pf-ourbox** — OurBox product family (Matchbox + Tinderbox hardware)
+  https://github.com/techofourown/pf-ourbox
 
 ### Images / build artifacts
-- **img-ourbox-mini-rpi** — build + publish bootable images for OurBox Mini (RPi)
+- **img-ourbox-mini-rpi** — build + publish bootable images for OurBox Matchbox (RPi)
   https://github.com/techofourown/img-ourbox-mini-rpi
+  *(Note: will be renamed to img-ourbox-matchbox-rpi)*
 
 ### Website
 - **web-techofourown** — website content

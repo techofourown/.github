@@ -22,7 +22,7 @@ https://github.com/techofourown/.github/blob/main/CODE_OF_CONDUCT.md
 - Read the org docs and decision process:
   https://github.com/techofourown/org-techofourown/blob/main/docs/README.md
 - For OurBox OS: start in `sw-ourbox-os`
-- For OurBox hardware: start in `hw-ourbox-mini` or `hw-ourbox-desk-32`
+- For OurBox hardware: start in `pf-ourbox` (contains Matchbox + Tinderbox models)
 - For image builds: start in `img-ourbox-mini-rpi`
 
 ## 3) How changes get made (the default workflow)
