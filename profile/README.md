@@ -32,8 +32,7 @@ We build **non-extractive consumer technology**: local-first, user-owned, repair
 
 ### Images / build artifacts
 - **img-ourbox-mini-rpi** — build + publish bootable images for OurBox Matchbox (RPi)
-  https://github.com/techofourown/img-ourbox-mini-rpi
-  *(Note: will be renamed to img-ourbox-matchbox-rpi)*
+  https://github.com/techofourown/img-ourbox-matchbox-rpi
 
 ### Website
 - **web-techofourown** — website content
