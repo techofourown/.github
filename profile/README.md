@@ -35,6 +35,8 @@ We build **non-extractive consumer technology**: local-first, user-owned, repair
   https://github.com/techofourown/img-ourbox-matchbox-rpi
 - **img-ourbox-tinderbox** — build + publish bootable workflow for OurBox Tinderbox (NVIDIA Jetson)
   https://github.com/techofourown/img-ourbox-tinderbox
+- **img-ourbox-woodbox** — build + publish bootable installer media for OurBox Woodbox (x86 mini-PC / Ubuntu Server)
+  https://github.com/techofourown/img-ourbox-woodbox
 
 ### Website
 - **web-techofourown** — website content
