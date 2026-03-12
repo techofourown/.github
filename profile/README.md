@@ -25,6 +25,8 @@ We build **non-extractive consumer technology**: local-first, user-owned, repair
 ### Software
 - **sw-ourbox-os** — OurBox OS (apps, decisions, spec)
   https://github.com/techofourown/sw-ourbox-os
+- **sw-ourbox-installer** — start here to prepare install media for OurBox OS on supported devices
+  https://github.com/techofourown/sw-ourbox-installer
 
 ### Hardware
 - **pf-ourbox** — OurBox product family (Matchbox + Tinderbox hardware)
