@@ -64,3 +64,6 @@ We build **non-extractive consumer technology**: local-first, user-owned, repair
 
 - **Core hardware designs**: CERN-OHL-S-2.0 (strong reciprocity for shipped modifications)
   https://github.com/techofourown/org-techofourown/blob/main/docs/decisions/ADR-0005-adopt-cern-ohl-s-2-0-core-hardware-designs.md
+
+- **Public documents and educational media**: CC BY 4.0 (reuse, adaptation, and commercial use are allowed with attribution and change indication)
+  https://github.com/techofourown/org-techofourown/blob/main/docs/decisions/ADR-0006-adopt-cc-by-4-0-for-public-documents-and-educational-media.md
